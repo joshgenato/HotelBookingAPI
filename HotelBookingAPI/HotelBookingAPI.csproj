@@ -16,10 +16,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Controllers\" />
 	  <Folder Include="DTOs\RoomDTOs\" />
 	  <Folder Include="DTOs\PaymentDTOs\" />
-	  <Folder Include="DTOs\UserDTOs\" />
 	</ItemGroup>
 
 </Project>
